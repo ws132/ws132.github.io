@@ -1,5 +1,5 @@
 *.map
 *.xml
 tags
-js
+js/zooming.*.js
 categories
